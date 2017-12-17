@@ -1,2 +1,4 @@
 # hello-world
-test my first repository
+
+This is the first branch, by LiuYe 
+today is sunday, Dec 16 2017.
